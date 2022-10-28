@@ -1,0 +1,31 @@
+@import "reset.css";
+@import 'selectors.css';
+@import 'Fonts.css';
+@font-face {
+  font-family: "Bold";
+  src:url('Fonts/Nekst-Bold.ttf');
+}
+@font-face {
+  font-family: "Black";
+  src:url('Fonts/Nekst-Black.ttf');
+}
+@font-face {
+  font-family: "SemiBold";
+  src:url('Fonts/Nekst-SemiBold.ttf');
+}
+@font-face {
+  font-family: "Medium";
+  src:url('Fonts/Nekst-Medium.ttf');
+}
+@font-face {
+  font-family: "Regular";
+  src:url('Fonts/Nekst-Regular.ttf');
+}
+@font-face {
+  font-family: "Light";
+  src:url('Fonts/Nekst-Light.ttf');
+}
+@font-face {
+  font-family: "Thin";
+  src:url('Fonts/Nekst-Thin.ttf');
+}
